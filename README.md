@@ -1,1 +1,1 @@
-# SQL-ad-hoc-Customer-Goods
+CONSUMER GOODS AD-HOC INSIGHTS
